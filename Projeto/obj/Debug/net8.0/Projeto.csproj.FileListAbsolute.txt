@@ -1,0 +1,42 @@
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\bin\Debug\net8.0\Projeto.exe
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\bin\Debug\net8.0\Projeto.deps.json
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\bin\Debug\net8.0\Projeto.runtimeconfig.json
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\bin\Debug\net8.0\Projeto.dll
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\bin\Debug\net8.0\Projeto.pdb
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\obj\Debug\net8.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfoInputs.cache
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfo.cs
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\obj\Debug\net8.0\Projeto.csproj.CoreCompileInputs.cache
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\obj\Debug\net8.0\Projeto.dll
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\obj\Debug\net8.0\refint\Projeto.dll
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\obj\Debug\net8.0\Projeto.pdb
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\obj\Debug\net8.0\Projeto.genruntimeconfig.cache
+D:\ATEC\PROGRAMAÇÃO E BASE DADOS\5089-PROGRAMAÇÃO-ALGORITMOS(C#)\Projeto1\Projeto\obj\Debug\net8.0\ref\Projeto.dll
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\bin\Debug\net8.0\Projeto.exe
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\bin\Debug\net8.0\Projeto.deps.json
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\bin\Debug\net8.0\Projeto.runtimeconfig.json
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\bin\Debug\net8.0\Projeto.dll
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\bin\Debug\net8.0\Projeto.pdb
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\obj\Debug\net8.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\obj\Debug\net8.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\obj\Debug\net8.0\Projeto.dll
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\obj\Debug\net8.0\refint\Projeto.dll
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\obj\Debug\net8.0\Projeto.pdb
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\obj\Debug\net8.0\Projeto.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\Projeto\Projeto\obj\Debug\net8.0\ref\Projeto.dll
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\bin\Debug\net8.0\Projeto.exe
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\bin\Debug\net8.0\Projeto.deps.json
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\bin\Debug\net8.0\Projeto.runtimeconfig.json
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\bin\Debug\net8.0\Projeto.dll
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\bin\Debug\net8.0\Projeto.pdb
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\obj\Debug\net8.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\obj\Debug\net8.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\obj\Debug\net8.0\Projeto.dll
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\obj\Debug\net8.0\refint\Projeto.dll
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\obj\Debug\net8.0\Projeto.pdb
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\obj\Debug\net8.0\Projeto.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Ambiente de Trabalho\C#\Projeto\Projeto\obj\Debug\net8.0\ref\Projeto.dll
